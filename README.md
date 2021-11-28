@@ -31,7 +31,7 @@ The following image shows how the board is being represented in this program:
 
 The print_board() method will print the current board state out to the console.
 
-##### _What I've Learned:_
+# **What I've Learned**
   - Manipulating Python built in data structures (in this case, lists) to solve real world problem such as a game
   - Representing the data in human readable form (see __str__ method)
   - Efficient and effective design techniques to implement a fully functioning game board in Python3.
